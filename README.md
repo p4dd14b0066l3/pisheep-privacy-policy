@@ -17,4 +17,4 @@ Nenhum dado coletado por essas permissões é transmitido para servidores extern
 Nenhum dado é compartilhado com terceiros. Todas as operações são realizadas no navegador local do usuário.
 
 ## Contato
-Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato pelo e-mail: p4ddl3b066l3@gmail.com
+Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato pelo e-mail: pisheepextension@gmail.com
